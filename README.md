@@ -11,7 +11,7 @@
 1. Взять лабораторную работу из модуля "Управляющие конструкции. Циклы.".
     Загрузить на проверку 3 задания оттуда. Первые два выполнить с помощью list comprehension.
     Сформировать PR.
-3. [Финальное задание](https://colab.research.google.com/drive/1dYUvqQF69egA1116BRxYXtobUxKS83_o?usp=sharing)
+3. [Финальное задание](https://colab.research.google.com/drive/1Q_XMH3bFB6df6voOmLGRKYOGqtdPk6vS?usp=sharing)
     Работу нужно сохранить в репозитории.
 4. Сдавать не раньше четверга (26.10)
 5. Ссылку на репозиторий отправить в [форму](https://forms.gle/yTHkhZ1Y4Y9i5gpcA)
